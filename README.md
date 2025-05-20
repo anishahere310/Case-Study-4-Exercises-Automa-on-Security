@@ -1,7 +1,4 @@
 
-![CI Status](https://img.shields.io/github/workflow/status/yourusername/github-automation-security/CI)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/github/package-json/v/yourusername/github-automation-security)
 
 A demonstration project showcasing GitHub's automation and security features including CI/CD workflows, CodeQL analysis, and Dependabot integration.
 
