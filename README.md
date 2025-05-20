@@ -100,4 +100,4 @@ When making changes that warrant a new release:
 3. Push to the `main` branch
 4. The release workflow will automatically create a new tag based on the version
 
-## License
+
